@@ -8,12 +8,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 - Retrieve an object from a file, a database etc...
 - Do operations on objects (count, compute stats, etc...)
 - Update attributes of an object
-- Destroy an object
-
-## Authors
-
-Abel Berhanu - [Github](https://github.com/abela12)  
-Robel Amde - [Github](https://github.com/robel-ak)
+- Destroy an object.
 
 ## License
 
